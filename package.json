@@ -1,0 +1,12 @@
+{
+  "name": "sneaker-xavi",
+  "version": "1.0.0",
+  "description": "sneaker xavi",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node --version",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
